@@ -6,7 +6,7 @@ The repository incorporates the underlying data of the analyses, which is a stan
 The Analysis incorporates:
 
 - Hypothesis testing
-- Statsmodel API demonstrations with emphasis on proportions_ztest and logistic regression
+- Statsmodel API demonstrations with emphasis on __proportions_ztest__ and __logistic regression__
 - Simulations via binomial Distributions
 - Multicollinearity
 
