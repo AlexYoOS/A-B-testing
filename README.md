@@ -1,7 +1,7 @@
 # A-B-testing
 Demo of A/B testing methodology and tools
 
-The repository incorporates the underlying data of the analyses, which is a standard investigation in landing page conversions. 
+The repository incorporates the underlying data of the analyses, which is a standard investigation in website landing page conversions. 
 
 The Analysis incorporates:
 
